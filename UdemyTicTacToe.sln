@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "UdemyTicTacToe", "UdemyTicTacToe\", "{F2BEF2FA-9A58-4C35-989E-73B826842413}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63412"
+		Debug.AspNetCompiler.PhysicalPath = "UdemyTicTacToe\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63412\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63412"
+		Release.AspNetCompiler.PhysicalPath = "UdemyTicTacToe\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63412\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63412"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2BEF2FA-9A58-4C35-989E-73B826842413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BEF2FA-9A58-4C35-989E-73B826842413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58AEB082-BAF0-423C-976B-C859A234FE0C}
+	EndGlobalSection
+EndGlobal
